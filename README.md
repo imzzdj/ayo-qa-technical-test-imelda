@@ -14,7 +14,3 @@
 ## Studi Kasus 2 (Ringkasan)
 - Website & App: area prioritas pengujian + mekanisme (E2E, API, Perf, Security, A11y).
 - Rujukan publik: situs & store listing AYO.
-
-## Catatan
-- Script ini bersifat minimal untuk menunjukkan deteksi dini; di implementasi nyata validasi
-  dilakukan pada layer service/DB (constraint unik) dan dicek lagi di UI/API tests.
